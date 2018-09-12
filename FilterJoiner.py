@@ -1,5 +1,4 @@
-from .Filter import *
-# from Filter import *
+from Filter import *
 
 #Classe que une filtros para gerar as querrys SQL
 class FilterJoiner:
